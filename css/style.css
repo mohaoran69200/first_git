@@ -1,0 +1,15 @@
+body,html {
+    margin: 0;
+    height: 100%;
+}
+
+.msg-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+}
+
+.msg-container p {
+    font-size: 60pt;
+}
